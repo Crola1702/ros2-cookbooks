@@ -8,7 +8,7 @@
 end
 
 chocolatey_package 'cmake' do
-  version '3.24.3'
+  version '3.25.0'
   options "--debug"
   list_options "--debug"
   retries 20
